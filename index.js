@@ -101,6 +101,6 @@ app.get('/category/:slug', (req,res)=> {
 })
 
 
-app.listen(3306, () => {
+app.listen(8080, () => {
     console.log('servidor rodando')
 })
