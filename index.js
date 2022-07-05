@@ -9,7 +9,7 @@ const usersController = require('./user/UsersController')
 
 const Article = require('./articles/Article')
 const Category = require('./categories/Category')
-const User = require('./user/User')
+const User = require('./user/User');
 
 
 //SESSION
